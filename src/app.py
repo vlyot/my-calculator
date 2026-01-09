@@ -1,4 +1,4 @@
-"""Simple calculator application."""
+"""Simple calculator application with CI/CD pipeline."""
 
 class Calculator:
     @staticmethod
